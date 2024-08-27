@@ -2,10 +2,12 @@
 Here's a more detailed `README.md` file for your project, incorporating the elements you've requested:
 
 ---
-
 # BookMarket DApp
 
 ## Vision
+![WhatsApp Image 2024-08-27 at 15 49 47_338ccc0f](https://github.com/user-attachments/assets/dcc4769d-c93a-46fb-b765-f1aa8141ddc5)
+
+
 
 **BookMarket** aims to create a decentralized platform where students and book enthusiasts can easily buy and sell used college books in a transparent and secure environment. By leveraging blockchain technology, the platform ensures trustless transactions without the need for intermediaries, reducing costs and making the process more efficient for both buyers and sellers.
 
