@@ -1,7 +1,5 @@
 # Use-book-seller
-Here's a more detailed `README.md` file for your project, incorporating the elements you've requested:
 
----
 # BookMarket DApp
 ![WhatsApp Image 2024-08-27 at 15 49 47_338ccc0f](https://github.com/user-attachments/assets/dcc4769d-c93a-46fb-b765-f1aa8141ddc5)
 
