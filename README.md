@@ -3,12 +3,9 @@ Here's a more detailed `README.md` file for your project, incorporating the elem
 
 ---
 # BookMarket DApp
-
-## Vision
 ![WhatsApp Image 2024-08-27 at 15 49 47_338ccc0f](https://github.com/user-attachments/assets/dcc4769d-c93a-46fb-b765-f1aa8141ddc5)
 
-
-
+## Vision
 **BookMarket** aims to create a decentralized platform where students and book enthusiasts can easily buy and sell used college books in a transparent and secure environment. By leveraging blockchain technology, the platform ensures trustless transactions without the need for intermediaries, reducing costs and making the process more efficient for both buyers and sellers.
 
 ## Flowchart
@@ -31,6 +28,10 @@ Here's a more detailed `README.md` file for your project, incorporating the elem
 - **Solidity Version**: `^0.8.0`
 - **Network**: Ethereum (can be deployed on any Ethereum-compatible network)
 - **Contract Address**: 0x3c2611ca7c5fd12d651ebca71c4a712cc6a32f12
+
+![image](https://github.com/user-attachments/assets/6f7f6111-ff8f-45a2-b9cc-4bdf1414fd11)
+
+
 
 ### Data Structures
 
